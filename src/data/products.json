@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Gluta Glow- Skin Whitening Kit Gluta Glow Kit",
+        "imageUrl": "https://ayudiva.in/cdn/shop/files/GlutaGlowKit_720x720.jpg?v=1711112371",
+        "price": "Rs.2,999.00"
+    },
+    {
+        "id": 2,
+        "name": "Advanced Snail 96 Mucin Power Essence",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRM4u6vRb8drBjROVqYpn-64jHQFDM_mbS2pfa5ndQXvJePzHMMO5HlY5U14ruKUDnR5UmmQDoC5no_vdmhSyAzPNbivz_9O_LFyQXDao84rQZLWV0GghwPyQ&usqp=CAE",
+        "price": "Rs.230"
+    },
+    {
+        "id": 3,
+        "name": "Max Skin Perfecto",
+        "imageUrl": "https://herbax.in/wp-content/uploads/2023/11/max-skin-perfector-600x600.jpg",
+        "price": "Rs.2499"
+    },
+    {
+        "id": 4,
+        "name": "CMC MATTE FOUNDATION",
+        "imageUrl": "https://charmacyworld.com/cdn/shop/products/8906148971078_1_1800x1800.jpg?v=1679032418",
+        "price": "Rs.999 "
+    },
+    {
+        "id": 5,
+        "name": "NYKAA So Creme! Creamy Matte Lipstick",
+        "imageUrl": "https://lmsin.net/cdn-cgi/image/h=1125,w=1125,q=85,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000008981071-1000008981070_01-2100.jpg",
+        "price": "Rs.399"
+    },
+    {
+        "id": 6,
+        "name": "Insight Matte Lipstick",
+        "imageUrl": "https://purewest.in/wp-content/uploads/2024/03/purewest_in_043_000.jpg",
+        "price": "Rs.199"
+    },
+    {
+        "id": 7,
+        "name": "Blue Heaven 10X Volumising Mascara Black - 8 ml",
+        "imageUrl": "https://media6.ppl-media.com//tr:h-750,w-750,c-at_max,dpr-2/static/img/product/349716/blue-heaven-10x-volumising-mascara-black-8ml_2_display_1633437824_b0502bff.jpg",
+        "price": "Rs.160"
+    },
+    {
+        "id": 8,
+        "name": "TYA Makeup eyeshadow Kit + 5 Pcs Makeup Brush + 2 Pc Blender Puff Combo - Multicolor",
+        "imageUrl": "https://images.meesho.com/images/products/332566850/kkym4_512.webp",
+        "price": "Rs.260"
+    }
+]
